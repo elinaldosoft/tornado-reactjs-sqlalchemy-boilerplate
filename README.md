@@ -16,8 +16,8 @@ $ black . --check
 #### Benchmarking Tool
 - https://github.com/wg/wrk
 - https://morepypy.blogspot.com/2017/03/async-http-benchmarks-on-pypy3.html
-`./wrk -t12 -c400 -d30s http://localhost:8888/`
-`./wrk -t12 -c400 -d30s http://localhost:8888/noticia/1`
+- `./wrk -t12 -c400 -d30s http://localhost:8888/`
+- `./wrk -t12 -c400 -d30s http://localhost:8888/noticia/1`
 
 #### Migrations Alembic
 - https://rodic.fr/blog/automatic-migrations-sqlalchemy-alembic/
