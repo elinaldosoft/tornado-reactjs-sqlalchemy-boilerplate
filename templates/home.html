@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<ul>
+  {% if articles %}
+    {% for article in articles %}
+        <li>
+          <a href="{{ reverse_url('news', article.slug, article.id) }}">{{ article.title }}</a>
+        </li>
+    {% end %}
+  {% end %}
+</ul>
+{% end %}

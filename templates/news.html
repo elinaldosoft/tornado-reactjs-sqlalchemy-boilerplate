@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block extra_js %}
+    <script>
+        window.article_id = {{ article.id }};
+    </script>
+    <link href="http://localhost:9090/assets/styles.css" rel="stylesheet">
+    <script src="http://localhost:9090/assets/build.js" async="async"></script>
+{% end %}
+{% block content %}
+    <h1>
+      {{ article.title }}
+    </h1>
+    {{ article.text }}
+    <div id="root"></div>
+{% end %}
+<script src="{{ static_url("dist/build.js") }}" async="async"></script>
+<link href="{{ static_url("dist/styles.css") }}" rel="stylesheet">
