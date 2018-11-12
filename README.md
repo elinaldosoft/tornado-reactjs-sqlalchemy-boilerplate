@@ -27,7 +27,7 @@ alembic upgrade head
 ```
 
 #### UvLoop
-- https ://magic.io/blog/uvloop-blazing-fast-python-networking/
+- https://magic.io/blog/uvloop-blazing-fast-python-networking/
 - https://github.com/magicstack/uvloop
 
 #### Python Decouple
