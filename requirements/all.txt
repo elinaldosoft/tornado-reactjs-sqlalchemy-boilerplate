@@ -1,4 +1,4 @@
-aiopg==0.15.0
+aiopg==0.16.0
 alembic==1.0.3
 appdirs==1.4.3
 appnope==0.1.0
