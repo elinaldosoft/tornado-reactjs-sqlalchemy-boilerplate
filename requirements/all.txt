@@ -46,7 +46,7 @@ pytest-black==0.3.2
 pytest-cov==2.6.0
 pytest-tornado==0.5.0
 pytest-watch==4.2.0
-python-dateutil==2.7.5
+python-dateutil==2.8.0
 python-decouple==3.1
 python-editor==1.0.3
 PyYAML==3.13
