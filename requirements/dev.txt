@@ -5,5 +5,5 @@ ipython==7.1.1
 pytest-cov==2.6.0
 pytest-watch==4.2.0
 pep8==1.7.1
-pylint==2.1.1
+pylint==2.3.1
 pytest-black==0.3.2
