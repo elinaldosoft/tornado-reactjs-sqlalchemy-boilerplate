@@ -1,5 +1,5 @@
 aiopg==0.15.0
-alembic==1.0.3
+alembic==1.0.8
 appdirs==1.4.3
 appnope==0.1.0
 argh==0.26.2
