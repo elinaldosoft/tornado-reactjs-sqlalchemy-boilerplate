@@ -3,7 +3,7 @@ alembic==1.0.3
 appdirs==1.4.3
 appnope==0.1.0
 argh==0.26.2
-astroid==2.0.4
+astroid==2.2.5
 atomicwrites==1.2.1
 attrs==18.2.0
 backcall==0.1.0
