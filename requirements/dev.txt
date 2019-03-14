@@ -1,4 +1,4 @@
-black==18.9b0
+black==19.3b0
 pytest==4.0.0
 codecov==2.0.15
 ipython==7.1.1
