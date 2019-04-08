@@ -44,7 +44,7 @@ pylint==2.1.1
 pytest==4.0.0
 pytest-black==0.3.2
 pytest-cov==2.6.0
-pytest-tornado==0.5.0
+pytest-tornado==0.7.0
 pytest-watch==4.2.0
 python-dateutil==2.7.5
 python-decouple==3.1
